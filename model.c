@@ -3,8 +3,7 @@
  auth: wolf-li
 
  platform: centos7
- gcc command:
- gcc -o <Destination file name> <file.name>.c
+ make
 
  result:
 
