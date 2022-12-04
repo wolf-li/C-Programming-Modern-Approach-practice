@@ -6,3 +6,6 @@ main.o: main.c
 
 clean:
         rm main main.o
+
+
+# 要使用 tab 不要使用空格进行缩进

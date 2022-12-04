@@ -4,8 +4,8 @@ All the code use the c99 standard
 
 - [x] chapter 2  
 - [x] chapter 3
-- [ ] chapter 4
-- [ ] chapter 5
+- [x] chapter 4
+- [x] chapter 5
 - [ ] chapter 6
 - [ ] chapter 7
 - [ ] chapter 8
