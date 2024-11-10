@@ -1,0 +1,10 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/johnli/Documents/code/c_code/c_morden_desgin/chapter9/practice10'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _max, symObjAddr: 0x0, symBinAddr: 0x100003C54, symSize: 0x100 }
+  - { offsetInCU: 0x41, offset: 0x41, size: 0x8, addend: 0x0, symName: _max, symObjAddr: 0x0, symBinAddr: 0x100003C54, symSize: 0x100 }
+  - { offsetInCU: 0xBD, offset: 0xBD, size: 0x8, addend: 0x0, symName: _avg, symObjAddr: 0x100, symBinAddr: 0x100003D54, symSize: 0x70 }
+  - { offsetInCU: 0x11D, offset: 0x11D, size: 0x8, addend: 0x0, symName: _num_positive_number, symObjAddr: 0x170, symBinAddr: 0x100003DC4, symSize: 0x78 }
+  - { offsetInCU: 0x161, offset: 0x161, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x1E8, symBinAddr: 0x100003E3C, symSize: 0xD8 }
+...
